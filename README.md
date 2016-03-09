@@ -30,6 +30,17 @@ See what Owl can do:
 * [One Item](http://owlgraphic.com/owlcarousel/demos/one.html)
 * [More demos](http://owlgraphic.com/owlcarousel/#more-demos)
 
+### How to install
+Using Bower, install with the following command:
+
+```bash
+bower install owl.carousel1
+```
+or for directly adding to the dependencies of your project
+
+```bash
+bower install owl.carousel1 --save
+```
 ### 1.Getting Started
 Load jQuery(1.7+) and include Owl Carousel plugin files
 

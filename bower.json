@@ -1,0 +1,29 @@
+{
+  "name": "owl.carousel1",
+  "homepage": "https://github.com/chris-verclytte/OwlCarousel",
+  "description": "Stable owl carousel v1.3.3",
+  "main": [
+    "owl-carousel/owl.carousel.min.js",
+    "owl-carousel/owl.carousel.css"
+  ],
+  "dependencies": {
+    "jquery": ">=1.7"
+  },
+  "keywords": [
+    "owl",
+    "carousel",
+    "v1",
+    "v1.3.3"
+  ],
+  "authors": [
+    "OwlFonk"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
